@@ -1,2 +1,4 @@
 # Metacritic-Movies
-Hello testing
+DA 320 Midterm
+Jamie Kirsila
+November 22, 2022
